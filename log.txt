@@ -1,0 +1,15 @@
+Script started
+Script started
+[2024-10-23 12:03:14] Invalid item ID provided: 0
+[2024-10-23 22:37:52] Successfully updated notification ID: 8 to read status: 1
+[2024-10-23 22:37:53] Successfully updated notification ID: 8 to read status: 1
+[2024-10-23 22:37:54] Successfully updated notification ID: 8 to read status: 1
+[2024-10-23 23:03:28] Successfully updated notification ID: 84 to read status: 1
+[2024-10-23 23:03:33] Successfully updated notification ID: 0 to read status: 1
+[2024-10-23 23:03:35] Successfully updated notification ID: 0 to read status: 1
+[2024-10-23 23:03:39] Successfully updated notification ID: 2 to read status: 1
+[2024-10-24 00:04:53] Invalid input for updating read status - item_id or is_read not set.
+[2024-10-24 00:12:01] Invalid input for updating read status - item_id or is_read not set.
+[2024-10-24 00:12:02] Invalid input for updating read status - item_id or is_read not set.
+[2024-10-24 00:13:18] Invalid input for updating read status - item_id or is_read not set.
+[2024-10-24 00:13:19] Invalid input for updating read status - item_id or is_read not set.

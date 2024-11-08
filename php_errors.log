@@ -1,0 +1,84 @@
+[13-Oct-2024 13:32:34 Europe/Berlin] Submitted Data for Insertion: Array
+(
+    [productName] => orange shots
+    [SKU] => SAD-905
+    [price] => 900
+    [Category] => Juices
+    [stockLevel] => 1000
+    [restockLevel] => 10
+    [availabilityStatus] => Available
+    [volume] => 900ml
+    [expirationDate] => 2024-11-02
+    [createdAt] => 2024-10-13
+)
+
+[13-Oct-2024 13:33:16 Europe/Berlin] Submitted Data for Insertion: Array
+(
+    [productName] => undefined
+    [SKU] => SAD-906
+    [price] => 909
+    [Category] => Juices
+    [stockLevel] => 1000
+    [restockLevel] => 10
+    [availabilityStatus] => Out of Stock
+    [volume] => 900ml
+    [expirationDate] => 2024-10-15
+    [createdAt] => 2024-10-13
+)
+
+[13-Oct-2024 13:38:48 Europe/Berlin] Submitted Data for Insertion: Array
+(
+    [productName] => pink juice
+    [SKU] => SAD-908
+    [price] => 888
+    [Category] => Water
+    [stockLevel] => 1000
+    [restockLevel] => 10
+    [availabilityStatus] => Available
+    [volume] => 900ml
+    [expirationDate] => 2024-10-09
+    [createdAt] => 2024-10-13
+)
+
+[13-Oct-2024 13:38:55 Europe/Berlin] Submitted Data for Insertion: Array
+(
+    [productName] => pink juice
+    [SKU] => SAD-908
+    [price] => 888
+    [Category] => Water
+    [stockLevel] => 1000
+    [restockLevel] => 10
+    [availabilityStatus] => Available
+    [volume] => 900ml
+    [expirationDate] => 2024-10-09
+    [createdAt] => 2024-10-13
+)
+
+[13-Oct-2024 13:50:58 Europe/Berlin] Submitted Data for Insertion: Array
+(
+    [productName] => betroot juice
+    [SKU] => STD-908
+    [price] => 881
+    [Category] => Customised Beverages
+    [stockLevel] => 2000
+    [restockLevel] => 10
+    [availabilityStatus] => Out of Stock
+    [volume] => 900ml
+    [expirationDate] => 2024-10-24
+    [createdAt] => 2024-10-13
+)
+
+[13-Oct-2024 13:53:46 Europe/Berlin] Submitted Data for Insertion: Array
+(
+    [productName] => betroot juice
+    [SKU] => STD-907
+    [price] => 881
+    [Category] => Juices
+    [stockLevel] => 2000
+    [restockLevel] => 10
+    [availabilityStatus] => Out of Stock
+    [volume] => 900ml
+    [expirationDate] => 2024-11-02
+    [createdAt] => 2024-10-13
+)
+

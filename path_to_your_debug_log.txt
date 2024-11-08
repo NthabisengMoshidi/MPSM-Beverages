@@ -1,0 +1,40 @@
+[2024-10-19 16:16:13] fetch_notifications.php called.
+[2024-10-19 16:16:13] Received ItemID: 3
+[2024-10-19 16:16:13] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:16:13] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:16:21] fetch_notifications.php called.
+[2024-10-19 16:16:21] Received ItemID: 3
+[2024-10-19 16:16:21] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:16:21] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:17:17] fetch_notifications.php called.
+[2024-10-19 16:17:17] Received ItemID: 3
+[2024-10-19 16:17:17] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:17:17] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:23:05] fetch_notifications.php called.
+[2024-10-19 16:23:05] Received ItemID: 3
+[2024-10-19 16:23:05] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:23:05] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:23:05] fetch_notifications.php called.
+[2024-10-19 16:23:05] Received ItemID: 3
+[2024-10-19 16:23:05] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:23:05] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:26:08] fetch_notifications.php called.
+[2024-10-19 16:26:08] Received ItemID: 3
+[2024-10-19 16:26:08] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:26:08] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:26:08] fetch_notifications.php called.
+[2024-10-19 16:26:08] Received ItemID: 3
+[2024-10-19 16:26:08] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:26:08] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:33:36] fetch_notifications.php called.
+[2024-10-19 16:33:36] Received ItemID: 3
+[2024-10-19 16:33:36] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:33:36] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:34:14] fetch_notifications.php called.
+[2024-10-19 16:34:14] Received ItemID: 3
+[2024-10-19 16:34:14] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:34:14] Fetched notifications for ItemID: 3, Result count: 0
+[2024-10-19 16:39:01] fetch_notifications.php called.
+[2024-10-19 16:39:01] Received ItemID: 3
+[2024-10-19 16:39:01] Product details retrieved successfully for ItemID: 3
+[2024-10-19 16:39:01] Fetched notifications for ItemID: 3, Result count: 0

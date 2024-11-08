@@ -1,0 +1,356 @@
+[2024-11-04 11:23:51] Database connection established.
+[2024-11-04 11:23:51] Notification count updated: 14
+[2024-11-04 11:23:51] Unread notifications count: 14
+[2024-11-04 11:23:53] Fetched order details for Order ID 1: {"id":1,"order_number":"ORD002","total_amount":"345.90","status":"Order Problem","shipment_date":"2024-11-20 00:00:00","delivery_address":"456 Elm St, City","customer_name":"Bongiwe Maponya","customer_email":"alice.smith@example.com","items":[{"sku":"JFC330FC","product_name":"Fruit Cocktail 330ml Flatcap","quantity":2,"price":"19.00","total_price":"38.00"},{"sku":"JMO500SC","product_name":"Mango and Orange 500ml Sportscap","quantity":3,"price":"24.00","total_price":"72.00"}]}
+[2024-11-04 11:29:55] Database connection established.
+[2024-11-04 11:29:55] Notification count updated: 14
+[2024-11-04 11:29:55] Unread notifications count: 14
+[2024-11-04 11:29:57] Fetched order details for Order ID 1: {"id":1,"order_number":"ORD002","total_amount":"345.90","status":"Order Problem","shipment_date":"2024-11-20 00:00:00","delivery_address":"456 Elm St, City","customer_name":"Bongiwe Maponya","customer_email":"alice.smith@example.com","items":[{"sku":"JFC330FC","product_name":"Fruit Cocktail 330ml Flatcap","quantity":2,"price":"19.00","total_price":"38.00"},{"sku":"JMO500SC","product_name":"Mango and Orange 500ml Sportscap","quantity":3,"price":"24.00","total_price":"72.00"}]}
+Request method: POST
+
+Received data: orderID=1, customerName=Alice Smith , email=alice.smith@example.com, totalAmount=345.9, status=Order Problem, shipmentDate=2024-11-06, city=Brakpan, orderItems=Array
+(
+    [0] => Array
+        (
+            [id] => undefined
+            [quantity] => 2
+            [price] => 19.00
+        )
+
+    [1] => Array
+        (
+            [id] => undefined
+            [quantity] => 3
+            [price] => 24.00
+        )
+
+)
+
+Order ID 1 updated successfully.
+[2024-11-04 11:30:23] Database connection established.
+[2024-11-04 11:30:23] Notification count updated: 14
+[2024-11-04 11:30:23] Unread notifications count: 14
+[2024-11-04 11:55:21] Database connection established.
+[2024-11-04 11:55:21] Notification count updated: 14
+[2024-11-04 11:55:21] Unread notifications count: 14
+[2024-11-04 11:55:23] Database connection established.
+[2024-11-04 11:55:23] Notification count updated: 14
+[2024-11-04 11:55:23] Unread notifications count: 14
+[2024-11-04 12:02:39] Database connection established.
+[2024-11-04 12:02:39] Notification count updated: 14
+[2024-11-04 12:02:39] Unread notifications count: 14
+[2024-11-04 12:02:57] Database connection established.
+[2024-11-04 12:02:57] Notification count updated: 14
+[2024-11-04 12:02:57] Unread notifications count: 14
+[2024-11-04 12:02:59] Database connection established.
+[2024-11-04 12:02:59] Notification count updated: 14
+[2024-11-04 12:02:59] Unread notifications count: 14
+[2024-11-04 12:05:03] Database connection established.
+[2024-11-04 12:05:03] Notification count updated: 14
+[2024-11-04 12:05:03] Unread notifications count: 14
+[2024-11-04 12:05:03] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:05:03] Notifications found in database: 14 rows.
+[2024-11-04 12:05:03] Notifications successfully fetched and stored in session.
+[2024-11-04 12:13:07] Database connection established.
+[2024-11-04 12:13:07] Notification count updated: 0
+[2024-11-04 12:13:07] Unread notifications count: 0
+[2024-11-04 12:13:07] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:13:07] No notifications found in the database.
+[2024-11-04 12:13:44] Database connection established.
+[2024-11-04 12:13:44] Notification count updated: 14
+[2024-11-04 12:13:44] Unread notifications count: 14
+[2024-11-04 12:13:44] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:13:44] Notifications found in database: 14 rows.
+[2024-11-04 12:13:44] Notifications successfully fetched and stored in session.
+[2024-11-04 12:17:12] Database connection established.
+[2024-11-04 12:17:12] Notification count updated: 28
+[2024-11-04 12:17:12] Unread notifications count: 28
+[2024-11-04 12:17:12] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:17:12] Notifications found in database: 28 rows.
+[2024-11-04 12:17:12] Notifications successfully fetched and stored in session.
+[2024-11-04 12:17:59] Database connection established.
+[2024-11-04 12:17:59] Notification count updated: 42
+[2024-11-04 12:17:59] Unread notifications count: 42
+[2024-11-04 12:18:19] Database connection established.
+[2024-11-04 12:18:19] Notification count updated: 56
+[2024-11-04 12:18:19] Unread notifications count: 56
+[2024-11-04 12:18:27] Received request to fetch product details for ItemID: 77
+[2024-11-04 12:18:27] Product details retrieved successfully for ItemID: 77
+[2024-11-04 12:18:43] Database connection established.
+[2024-11-04 12:18:43] Notification count updated: 69
+[2024-11-04 12:18:43] Unread notifications count: 69
+[2024-11-04 12:19:01] Received request to fetch product details for ItemID: 78
+[2024-11-04 12:19:01] Product details retrieved successfully for ItemID: 78
+[2024-11-04 12:19:10] Database connection established.
+[2024-11-04 12:19:10] Notification count updated: 81
+[2024-11-04 12:19:10] Unread notifications count: 81
+[2024-11-04 12:19:13] Database connection established.
+[2024-11-04 12:19:13] Notification count updated: 93
+[2024-11-04 12:19:13] Unread notifications count: 93
+[2024-11-04 12:19:13] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:19:13] Notifications found in database: 93 rows.
+[2024-11-04 12:19:13] Notifications successfully fetched and stored in session.
+[2024-11-04 12:26:47] Database connection established.
+[2024-11-04 12:26:47] Notification count updated: 93
+[2024-11-04 12:26:47] Unread notifications count: 93
+[2024-11-04 12:26:47] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:26:47] Notifications found in database: 93 rows.
+[2024-11-04 12:26:47] Notifications successfully fetched and stored in session.
+[2024-11-04 12:26:50] Database connection established.
+[2024-11-04 12:26:50] Notification count updated: 93
+[2024-11-04 12:26:50] Unread notifications count: 93
+[2024-11-04 12:26:50] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:26:50] Notifications found in database: 93 rows.
+[2024-11-04 12:26:50] Notifications successfully fetched and stored in session.
+[2024-11-04 12:26:52] Database connection established.
+[2024-11-04 12:26:52] Notification count updated: 93
+[2024-11-04 12:26:52] Unread notifications count: 93
+[2024-11-04 12:26:52] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:26:52] Notifications found in database: 93 rows.
+[2024-11-04 12:26:52] Notifications successfully fetched and stored in session.
+[2024-11-04 12:26:59] Database connection established.
+[2024-11-04 12:26:59] Notification count updated: 93
+[2024-11-04 12:26:59] Unread notifications count: 93
+[2024-11-04 12:26:59] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:26:59] Notifications found in database: 93 rows.
+[2024-11-04 12:26:59] Notifications successfully fetched and stored in session.
+[2024-11-04 12:27:39] Database connection established.
+[2024-11-04 12:27:39] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 12:27:39] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 12:27:39] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:27:39] No notifications found in the database.
+[2024-11-04 12:28:28] Database connection established.
+[2024-11-04 12:28:28] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 12:28:28] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 12:28:28] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:28:28] No notifications found in the database.
+[2024-11-04 12:28:30] Database connection established.
+[2024-11-04 12:28:30] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 12:28:30] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 12:28:30] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 12:28:30] No notifications found in the database.
+[2024-11-04 20:14:18] Database connection established.
+[2024-11-04 20:14:18] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:14:18] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:22:07] Database connection established.
+[2024-11-04 20:22:07] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:22:07] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:23:38] Database connection established.
+[2024-11-04 20:23:38] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:23:38] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:23:40] Database connection established.
+[2024-11-04 20:23:40] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:23:40] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:23:55] Database connection established.
+[2024-11-04 20:23:55] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:23:55] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:24:00] Database connection established.
+[2024-11-04 20:24:00] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:24:00] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:24:11] Database connection established.
+[2024-11-04 20:24:11] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:24:11] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:24:15] Database connection established.
+[2024-11-04 20:24:15] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:24:15] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:25:29] Database connection established.
+[2024-11-04 20:25:29] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:25:29] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:26:00] Received request to fetch product details for ItemID: 1
+[2024-11-04 20:26:00] Product details retrieved successfully for ItemID: 1
+[2024-11-04 20:26:24] Received request to fetch product details for ItemID: 2
+[2024-11-04 20:26:24] Product details retrieved successfully for ItemID: 2
+[2024-11-04 20:27:07] Database connection established.
+[2024-11-04 20:27:07] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:27:07] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:27:07] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-04 20:27:07] No notifications found in the database.
+[2024-11-04 20:28:19] Database connection established.
+[2024-11-04 20:28:19] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:28:19] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:30:32] Database connection established.
+[2024-11-04 20:30:32] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:30:32] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:30:44] Database connection established.
+[2024-11-04 20:30:44] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:30:44] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:30:48] Database connection established.
+[2024-11-04 20:30:48] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:30:48] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:31:04] Database connection established.
+[2024-11-04 20:31:04] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-04 20:31:04] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-05 11:30:30] Database connection established.
+[2024-11-05 11:30:30] Failed to fetch notification count: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-05 11:30:30] Error counting unread notifications: Table 'mpsm_ecommerce.notifications' doesn't exist
+[2024-11-05 13:27:49] Database connection established.
+[2024-11-05 13:27:49] Notification count updated: 12
+[2024-11-05 13:27:49] Unread notifications count: 12
+[2024-11-05 13:27:54] Database connection established.
+[2024-11-05 13:27:54] Notification count updated: 12
+[2024-11-05 13:27:54] Unread notifications count: 12
+[2024-11-05 13:27:56] Database connection established.
+[2024-11-05 13:27:56] Notification count updated: 12
+[2024-11-05 13:27:56] Unread notifications count: 12
+[2024-11-05 13:27:58] Database connection established.
+[2024-11-05 13:27:58] Notification count updated: 12
+[2024-11-05 13:27:58] Unread notifications count: 12
+[2024-11-05 13:27:58] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-05 13:27:58] Notifications found in database: 12 rows.
+[2024-11-05 13:27:58] Notifications successfully fetched and stored in session.
+[2024-11-05 13:29:37] Database connection established.
+[2024-11-05 13:29:37] Notification count updated: 12
+[2024-11-05 13:29:37] Unread notifications count: 12
+[2024-11-05 13:29:37] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-05 13:29:37] Notifications found in database: 12 rows.
+[2024-11-05 13:29:37] Notifications successfully fetched and stored in session.
+[2024-11-05 13:29:39] Database connection established.
+[2024-11-05 13:29:39] Notification count updated: 12
+[2024-11-05 13:29:40] Unread notifications count: 12
+[2024-11-05 13:29:40] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-05 13:29:40] Notifications found in database: 12 rows.
+[2024-11-05 13:29:40] Notifications successfully fetched and stored in session.
+[2024-11-05 13:29:41] Database connection established.
+[2024-11-05 13:29:41] Notification count updated: 12
+[2024-11-05 13:29:41] Unread notifications count: 12
+[2024-11-05 13:29:41] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-05 13:29:41] Notifications found in database: 12 rows.
+[2024-11-05 13:29:41] Notifications successfully fetched and stored in session.
+[2024-11-05 13:29:41] Mark as read/unread request received.
+[2024-11-05 13:29:41] Marking ItemID 64 as read/unread.
+[2024-11-05 13:29:41] New read status: 1 for ItemID ID: 64
+[2024-11-05 13:29:41] Executing update query: UPDATE notifications SET is_read = ? WHERE ItemID = ?
+[2024-11-05 13:29:41] Notification status updated successfully for ItemID ID 64.
+[2024-11-05 13:29:41] Redirecting to notifications page after marking read/unread.
+Error [2] in C:\xampp\htdocs\ITPJA\Prototype Drafts\Admin Prototype\notifications.php at line 157: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\ITPJA\Prototype Drafts\Admin Prototype\blueprint.php:68)[2024-11-05 13:29:41] Database connection established.
+[2024-11-05 13:29:41] Notification count updated: 11
+[2024-11-05 13:29:41] Unread notifications count: 11
+[2024-11-05 13:29:41] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-05 13:29:41] Notifications found in database: 12 rows.
+[2024-11-05 13:29:41] Notifications successfully fetched and stored in session.
+[2024-11-05 13:29:47] Database connection established.
+[2024-11-05 13:29:47] Notification count updated: 11
+[2024-11-05 13:29:47] Unread notifications count: 11
+[2024-11-05 13:29:47] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-05 13:29:47] Notifications found in database: 12 rows.
+[2024-11-05 13:29:47] Notifications successfully fetched and stored in session.
+[2024-11-05 13:29:47] Mark as read/unread request received.
+[2024-11-05 13:29:47] Marking ItemID 64 as read/unread.
+[2024-11-05 13:29:47] New read status: 0 for ItemID ID: 64
+[2024-11-05 13:29:47] Executing update query: UPDATE notifications SET is_read = ? WHERE ItemID = ?
+[2024-11-05 13:29:47] Notification status updated successfully for ItemID ID 64.
+[2024-11-05 13:29:47] Redirecting to notifications page after marking read/unread.
+Error [2] in C:\xampp\htdocs\ITPJA\Prototype Drafts\Admin Prototype\notifications.php at line 157: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\ITPJA\Prototype Drafts\Admin Prototype\blueprint.php:68)[2024-11-05 13:29:47] Database connection established.
+[2024-11-05 13:29:47] Notification count updated: 12
+[2024-11-05 13:29:47] Unread notifications count: 12
+[2024-11-05 13:29:47] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-05 13:29:47] Notifications found in database: 12 rows.
+[2024-11-05 13:29:47] Notifications successfully fetched and stored in session.
+[2024-11-05 13:30:07] Database connection established.
+[2024-11-05 13:30:07] Notification count updated: 12
+[2024-11-05 13:30:07] Unread notifications count: 12
+[2024-11-05 14:20:03] Database connection established.
+[2024-11-05 14:20:03] Notification count updated: 12
+[2024-11-05 14:20:03] Unread notifications count: 12
+[2024-11-05 14:30:18] Database connection established.
+[2024-11-05 14:30:18] Notification count updated: 12
+[2024-11-05 14:30:18] Unread notifications count: 12
+[2024-11-08 10:36:14] Database connection established.
+[2024-11-08 10:36:14] Notification count updated: 12
+[2024-11-08 10:36:14] Unread notifications count: 12
+[2024-11-08 10:40:16] Database connection established.
+[2024-11-08 10:40:16] Notification count updated: 12
+[2024-11-08 10:40:16] Unread notifications count: 12
+[2024-11-08 10:40:16] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-08 10:40:16] Notifications found in database: 12 rows.
+[2024-11-08 10:40:16] Notifications successfully fetched and stored in session.
+[2024-11-08 10:40:18] Database connection established.
+[2024-11-08 10:40:18] Notification count updated: 12
+[2024-11-08 10:40:18] Unread notifications count: 12
+[2024-11-08 10:40:18] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-08 10:40:18] Notifications found in database: 12 rows.
+[2024-11-08 10:40:18] Notifications successfully fetched and stored in session.
+[2024-11-08 10:40:18] Mark as read/unread request received.
+[2024-11-08 10:40:18] Marking ItemID 64 as read/unread.
+[2024-11-08 10:40:18] New read status: 1 for ItemID ID: 64
+[2024-11-08 10:40:18] Executing update query: UPDATE notifications SET is_read = ? WHERE ItemID = ?
+[2024-11-08 10:40:18] Notification status updated successfully for ItemID ID 64.
+[2024-11-08 10:40:18] Redirecting to notifications page after marking read/unread.
+Error [2] in C:\xampp\htdocs\ITPJA\Prototype Drafts\Admin Prototype\notifications.php at line 157: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\ITPJA\Prototype Drafts\Admin Prototype\blueprint.php:68)[2024-11-08 10:40:18] Database connection established.
+[2024-11-08 10:40:18] Notification count updated: 11
+[2024-11-08 10:40:18] Unread notifications count: 11
+[2024-11-08 10:40:18] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-08 10:40:18] Notifications found in database: 12 rows.
+[2024-11-08 10:40:18] Notifications successfully fetched and stored in session.
+[2024-11-08 10:45:39] Database connection established.
+[2024-11-08 10:45:39] Notification count updated: 11
+[2024-11-08 10:45:39] Unread notifications count: 11
+[2024-11-08 10:45:39] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-08 10:45:39] Notifications found in database: 12 rows.
+[2024-11-08 10:45:39] Notifications successfully fetched and stored in session.
+[2024-11-08 11:58:37] Database connection established.
+[2024-11-08 11:58:37] Notification count updated: 11
+[2024-11-08 11:58:37] Unread notifications count: 11
+[2024-11-08 11:58:38] Database connection established.
+[2024-11-08 11:58:38] Notification count updated: 11
+[2024-11-08 11:58:38] Unread notifications count: 11
+[2024-11-08 11:58:42] Database connection established.
+[2024-11-08 11:58:42] Notification count updated: 11
+[2024-11-08 11:58:42] Unread notifications count: 11
+[2024-11-08 11:59:09] Database connection established.
+[2024-11-08 11:59:09] Notification count updated: 11
+[2024-11-08 11:59:09] Unread notifications count: 11
+[2024-11-08 11:59:12] Fetched order details for Order ID 3: {"id":3,"order_number":"ORD004","total_amount":"133.00","status":"Delivered","shipment_date":"2024-10-02 00:00:00","delivery_address":"321 Pine St, City","customer_name":"Amo Maps","customer_email":"amo@example.com","items":[{"sku":"JFC1.5FC","product_name":"Fruit Cocktail 1.5l Flatcap","quantity":1,"price":"42.00","total_price":"42.00"},{"sku":"JMO330FC","product_name":"Mango and Orange 330ml Flatcap","quantity":1,"price":"19.00","total_price":"19.00"}]}
+[2024-11-08 12:04:01] Fetched order details for Order ID 3: {"id":3,"order_number":"ORD004","total_amount":"133.00","status":"Delivered","shipment_date":"2024-10-02 00:00:00","delivery_address":"321 Pine St, City","customer_name":"Amo Maps","customer_email":"amo@example.com","items":[{"sku":"JFC1.5FC","product_name":"Fruit Cocktail 1.5l Flatcap","quantity":1,"price":"42.00","total_price":"42.00"},{"sku":"JMO330FC","product_name":"Mango and Orange 330ml Flatcap","quantity":1,"price":"19.00","total_price":"19.00"}]}
+[2024-11-08 12:04:15] Fetched order details for Order ID 5: {"id":5,"order_number":"ORD001","total_amount":"200.00","status":"Confirmed","shipment_date":"2024-11-06 00:00:00","delivery_address":"123 Main St","customer_name":"Unam Maponya","customer_email":"unamsani@icloud.com","items":[{"sku":"JMO500FC","product_name":"Mango and Orange 500ml Flatcap","quantity":3,"price":"23.00","total_price":"69.00"},{"sku":"JFF1.5SC","product_name":"Fruit Fiesta 1.5l Sportscap","quantity":1,"price":"45.00","total_price":"45.00"}]}
+Request method: POST
+
+Received data: orderID=5, customerName=Unam Maponya, email=unamsani@icloud.com, totalAmount=200, status=Confirmed, shipmentDate=, city=Roodepoort, orderItems=Array
+(
+    [0] => Array
+        (
+            [id] => undefined
+            [quantity] => 3
+            [price] => 23.00
+        )
+
+    [1] => Array
+        (
+            [id] => undefined
+            [quantity] => 1
+            [price] => 45.00
+        )
+
+)
+
+Exception: Incorrect datetime value: '' for column 'shipment_date' at row 1
+[2024-11-08 12:05:42] Database connection established.
+[2024-11-08 12:05:42] Notification count updated: 11
+[2024-11-08 12:05:42] Unread notifications count: 11
+[2024-11-08 12:07:46] Database connection established.
+[2024-11-08 12:07:46] Notification count updated: 11
+[2024-11-08 12:07:46] Unread notifications count: 11
+[2024-11-08 12:08:09] Database connection established.
+[2024-11-08 12:08:09] Notification count updated: 11
+[2024-11-08 12:08:09] Unread notifications count: 11
+[2024-11-08 13:37:02] Database connection established.
+[2024-11-08 13:37:02] Notification count updated: 11
+[2024-11-08 13:37:02] Unread notifications count: 11
+[2024-11-08 13:37:08] Database connection established.
+[2024-11-08 13:37:08] Notification count updated: 11
+[2024-11-08 13:37:08] Unread notifications count: 11
+[2024-11-08 13:37:18] Database connection established.
+[2024-11-08 13:37:18] Notification count updated: 11
+[2024-11-08 13:37:18] Unread notifications count: 11
+[2024-11-08 13:37:18] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-08 13:37:18] Notifications found in database: 12 rows.
+[2024-11-08 13:37:18] Notifications successfully fetched and stored in session.
+[2024-11-08 13:37:20] Database connection established.
+[2024-11-08 13:37:20] Notification count updated: 11
+[2024-11-08 13:37:20] Unread notifications count: 11
+[2024-11-08 13:37:20] Executing query to fetch notifications: SELECT * FROM notifications ORDER BY created_at DESC
+[2024-11-08 13:37:20] Notifications found in database: 12 rows.
+[2024-11-08 13:37:20] Notifications successfully fetched and stored in session.
+[2024-11-08 13:37:22] Database connection established.
+[2024-11-08 13:37:22] Notification count updated: 11
+[2024-11-08 13:37:22] Unread notifications count: 11
